@@ -1,0 +1,8 @@
+﻿{
+  "profiles": {
+    "GradesTracker": {
+      "commandName": "Project",
+      "workingDirectory": "..\\"
+    }
+  }
+}

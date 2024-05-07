@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradesTracker", "GradesTracker\GradesTracker.csproj", "{118D2FF3-B5DE-4193-9A99-D7A55878D162}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EE965AB8-23D0-4B3A-AD42-68B4E7714365}"
+	ProjectSection(SolutionItems) = preProject
+		grades-schema.json = grades-schema.json
+	EndProjectSection
+	ProjectSection(FolderGlobals) = preProject
+		C_5_4Users_4Hj_4Documents_4Fanshawe_44th-semester_4INFO-3138_4c# workspace_4GradesTracker_4GradesTracker_4bin_4Debug_4netcoreapp3_11_4grades-schema_1json__JsonSchema = https://json-schema.org/draft-07/schema
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118D2FF3-B5DE-4193-9A99-D7A55878D162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118D2FF3-B5DE-4193-9A99-D7A55878D162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118D2FF3-B5DE-4193-9A99-D7A55878D162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118D2FF3-B5DE-4193-9A99-D7A55878D162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F002E125-9AA2-4A0C-81B0-0BFC9C754084}
+	EndGlobalSection
+EndGlobal

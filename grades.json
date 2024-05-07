@@ -1,0 +1,35 @@
+[
+  {
+    "Evaluations": [
+      {
+        "Description": "Project 1",
+        "Weight": 15.0,
+        "OutOf": 50,
+        "EarnedMarks": 46.5
+      },
+      {
+        "Description": "Quiz 1",
+        "Weight": 2.0,
+        "OutOf": 5,
+        "EarnedMarks": 4.0
+      },
+      {
+        "Description": "Midterm Test",
+        "Weight": 25.0,
+        "OutOf": 45,
+        "EarnedMarks": 29.0
+      },
+      {
+        "Description": "Quiz 2",
+        "Weight": 2.0,
+        "OutOf": 5,
+        "EarnedMarks": 0.0
+      }
+    ],
+    "Code": "INFO-3138"
+  },
+  {
+    "Evaluations": [],
+    "Code": "INFO-2134"
+  }
+]
